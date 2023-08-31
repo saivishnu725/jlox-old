@@ -1,4 +1,5 @@
 # jlox
+DEPRECATED!! I SHALL CONTINUE THE PROGRESS USING ANOTHER REPO THAT USES GRADLE.
 A lox compiler using java.
 
 ## Link for the course
